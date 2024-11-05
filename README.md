@@ -56,10 +56,10 @@ This project analyzes the sales data of a coffee shop to understand customer pur
 
 ## Images
 
-Dashboard dark-mode:
+Dashboard light-mode:
 ![image](/dashboard/dashboard_light_mode.png)
 
-Dashboard light-mode:
+Dashboard dark-mode:
 ![image](/dashboard/dashboard_dark_mode.png)
 
 
