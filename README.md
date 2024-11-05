@@ -1,4 +1,7 @@
 # Coffee Shop Sales Analysis
+
+![image](/dashboard/dashboard_dark.png)
+
 This project analyzes the sales data of a coffee shop to understand customer purchasing behavior, evaluate product profitability, assess sales performance across countries, and other key insights. The analysis aims to support the coffee shop in optimizing its operations, enhancing profitability, and building targeted marketing strategies.
 
 **Tools Used**: Excel for data cleaning, pivot analysis, and dashboard creation; PowerPoint for presentation and insight communication.
@@ -38,8 +41,6 @@ This project analyzes the sales data of a coffee shop to understand customer pur
 ### 5. **Yearly Sales Trends**
    - The peak sales year was **2021**, but a sharp decline followed, with sales dropping **~48.7%** by 2022. This significant drop may warrant an investigation into factors such as market saturation, competition, or shifts in consumer behavior.
 
----
-
 ## Analysis Recommendations
 1. **Revise Pricing for Popular Products**  
    Rob and Ara’s popularity, despite low margins, suggests room to explore slight price adjustments or cost efficiencies to boost margins without affecting demand adversely.
@@ -52,6 +53,15 @@ This project analyzes the sales data of a coffee shop to understand customer pur
 
 4. **Investigate Sales Decline Causes**  
    The sales drop after 2021 is concerning. Consider customer surveys or competitive analysis to understand the underlying causes and devise corrective strategies.
+
+## Images
+
+Dashboard dark-mode:
+![image](/dashboard/dashboard_dark.png)
+
+Dashboard light-mode:
+![image](/dashboard/dashboard_light.png)
+
 
 ## Contact
 For any feedback, send me an email at disephdum@gmail.com, using the repository title as the subject.
