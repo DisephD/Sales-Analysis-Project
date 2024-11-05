@@ -1,6 +1,6 @@
 # Coffee Shop Sales Analysis
 
-![image](/dashboard/dashboard_dark.png)
+![image](/dashboard/dashboard_dark_mode.png)
 
 This project analyzes the sales data of a coffee shop to understand customer purchasing behavior, evaluate product profitability, assess sales performance across countries, and other key insights. The analysis aims to support the coffee shop in optimizing its operations, enhancing profitability, and building targeted marketing strategies.
 
@@ -57,10 +57,10 @@ This project analyzes the sales data of a coffee shop to understand customer pur
 ## Images
 
 Dashboard dark-mode:
-![image](/dashboard/dashboard_dark.png)
+![image](/dashboard/dashboard_light_mode.png)
 
 Dashboard light-mode:
-![image](/dashboard/dashboard_light.png)
+![image](/dashboard/dashboard_dark_mode.png)
 
 
 ## Contact
